@@ -8,6 +8,7 @@ This project is a social network. There are users, posts, comments, and likes.
 - Comment on posts
 - Like posts
 - View other profiles
+- Unit, integration, and end-to-end testing
 
 # Technologies Used
 - Spring Data
@@ -17,6 +18,9 @@ This project is a social network. There are users, posts, comments, and likes.
 - Angular
 - AWS S3
 - AWS EC2
+- Selenium
+- JUnit/Mockito
+- Cucumber/Gherkin
 
 # Get Started
 - Clone the repositories linked below
