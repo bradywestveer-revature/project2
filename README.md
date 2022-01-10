@@ -26,7 +26,9 @@ This project is a social network. There are users, posts, comments, and likes.
 - Clone the repositories linked below
 
 `git clone https://github.com/bradywestveer-revature/project2-frontend`
+
 `git clone https://github.com/bradywestveer-revature/project2-backend`
+
 `git clone https://github.com/bradywestveer-revature/project2-e2e`
 
 - Use Maven to install dependencies on the backend
