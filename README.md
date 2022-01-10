@@ -24,11 +24,23 @@ This project is a social network. There are users, posts, comments, and likes.
 
 # Get Started
 - Clone the repositories linked below
+
+`git clone https://github.com/bradywestveer-revature/project2-frontend`
+`git clone https://github.com/bradywestveer-revature/project2-backend`
+`git clone https://github.com/bradywestveer-revature/project2-e2e`
+
 - Use Maven to install dependencies on the backend
-- Use NPM and the Angular CLI to set up the frontend
+- Install NPM packages for the frontend (in project2-frontend/)
+
+`npm install`
+
+- Run the Angular server (in project2-frontend/)
+
+`ng serve`
+
+- Access the frontend from http://localhost:4200 in your browser
 
 # Contributors
-- Brady W
 - David H
 - Jason C
 
